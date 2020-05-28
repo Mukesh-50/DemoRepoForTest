@@ -1,6 +1,6 @@
 {
-    "emname": "<yourmessageclientname>",
-    "namespace": "<yourorgname>/<yourmessageclientname>/<uniqueID>",
+    "emname": "mukeshmessage",
+    "namespace": "MukeshOrg/abcd1/abc11",
     "version": "1.1.0",
     "options": {
         "management": true,
